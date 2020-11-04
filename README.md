@@ -1,2 +1,2 @@
-# notes
+# Notes
 notes for revision purpose

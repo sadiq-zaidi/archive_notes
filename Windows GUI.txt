@@ -1,0 +1,3 @@
+R-click This PC properties				Remote settings on the right, allow remote desktop connection
+RDP							Remote Desktop Protocol
+

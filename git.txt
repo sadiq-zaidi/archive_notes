@@ -32,7 +32,5 @@ git commit -m " "	save or snapshot the entire project		git commit -m "Initial co
 -m			save message otherwise git will open default editor to edit			12
 
 
-process industries
-pirpose built softwares
-support for specific softwares
+
 

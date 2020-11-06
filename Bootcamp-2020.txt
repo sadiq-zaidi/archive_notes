@@ -7,8 +7,14 @@ Class 1:
 	installed npm
 	installed surge
 	upload website on surge
-	surge email <>
-	surge password <>
-	website hosted on this webpage bootcamp2020_project0001.surge.sh
+	surge email sadiqzaidi94@gmail.com
+	surge password is fkujvdjfk
+	website hosted on this webpage http://bootcamp_2020project0001.surge.sh/
 																		November 06, 2020
+	use of git and github
+	use of github actions .yml or .ymal file in workflow
+	use to add secrets on github, surge token so we do not have to provide our id and password everytime
+	learned to automate updates on surge
 
+Class 2:
+	

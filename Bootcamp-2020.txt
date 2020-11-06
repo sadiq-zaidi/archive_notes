@@ -1,0 +1,14 @@
+										BOOTCAMP 2020
+
+																		November 05, 2020
+Class 1:
+	installed visual studio
+	installed node js
+	installed npm
+	installed surge
+	upload website on surge
+	surge email sadiqzaidi94@gmail.com
+	surge password is fkujvdjfk
+	website hosted on this webpage bootcamp2020_project0001.surge.sh
+																		November 06, 2020
+
